@@ -1,0 +1,5 @@
+proton 1.167e-26[kg] 2[Mev]
+       elektron 1.167e-26[kg] 4[Mev]
+       elektron 1.167e-26[kg] 3[Mev]
+       pozitron 1.167e-26[kg] 2[Mev]
+       elektron 9.1e-31[kg] 5[Mev]

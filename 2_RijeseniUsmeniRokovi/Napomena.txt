@@ -1,0 +1,14 @@
+1. 
+Iako u sklopu kursa pise da se radi o najnovijem C++ standardu,
+ANSII C++ standard je dovoljan za teorijski dio ispita iz pedmeta PJ1
+dok je za pismeni potreban C++1 zbog Smart_pointers-a i Move Semanthics
+tako da SlideShow od prof. Drazena_Brdjanina/Gorana_Banjca iz 2015 je sasvim dovoljan.
+
+2.
+Prvo pogledati Aprilski, pa zatim pogledati Februarski rok
+jer se komentari nasljedjuju.
+
+3. 
+U Arp/Feb 6./7. zadatak nisam komentarisao.
+Nema potrebe, jer svakako i za pismeni i za teorijski dio ispita
+obrada izuzetaka (exceptions) se mora savladati.

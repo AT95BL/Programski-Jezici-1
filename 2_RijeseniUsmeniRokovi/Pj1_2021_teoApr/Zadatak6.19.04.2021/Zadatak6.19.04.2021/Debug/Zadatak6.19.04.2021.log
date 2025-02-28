@@ -1,0 +1,5 @@
+﻿  maincpp.cpp
+C:\Users\AT95\Desktop\PJ1\2_RijeseniUsmeniRokovi\Pj1_2021_teoApr\Zadatak6.19.04.2021\Zadatak6.19.04.2021\maincpp.cpp(37,3): warning C4286: 'Y': is caught by base class ('X') on line 36
+C:\Users\AT95\Desktop\PJ1\2_RijeseniUsmeniRokovi\Pj1_2021_teoApr\Zadatak6.19.04.2021\Zadatak6.19.04.2021\maincpp.cpp(38,3): warning C4286: 'Z': is caught by base class ('X') on line 36
+C:\Users\AT95\Desktop\PJ1\2_RijeseniUsmeniRokovi\Pj1_2021_teoApr\Zadatak6.19.04.2021\Zadatak6.19.04.2021\maincpp.cpp(38,3): warning C4286: 'Z': is caught by base class ('Y') on line 37
+  Zadatak6.19.04.2021.vcxproj -> C:\Users\AT95\Desktop\PJ1\2_RijeseniUsmeniRokovi\Pj1_2021_teoApr\Zadatak6.19.04.2021\Debug\Zadatak6.19.04.2021.exe
